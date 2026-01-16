@@ -1,22 +1,6 @@
 # 🌦️ Weather App (Cyber UI)
 
-A full-stack weather application with a modern cyber-themed user interface.
-The app displays real-time weather information using an external API and includes animations, themes, and location-based features.
-
-> ⚠️ Note: Due to system environment limitations, the complete project is provided as a ZIP archive.
-
----
-
-## 📦 Project Files
-
-This repository contains the complete project packaged as a ZIP file:
-
-- **weather-app.zip**
-
-After extracting the ZIP file, the project structure will be:
-
-
----
+A full-stack weather application
 
 ## 🚀 Features
 
